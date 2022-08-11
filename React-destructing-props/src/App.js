@@ -1,5 +1,9 @@
 import "./styles.css";
+import React from "react";
 
+{
+  /*Props*/
+}
 function AdditionProps(props) {
   return (
     <div>
@@ -8,6 +12,10 @@ function AdditionProps(props) {
       <p>{props.price}</p>
     </div>
   );
+}
+
+{
+  /*Destructuring Props*/
 }
 function AdditionDestruction({ name, description, price }) {
   return (
