@@ -1,0 +1,41 @@
+s/n
+
+Props
+
+state
+
+1
+
+Props are read only
+
+ State changes asynchronously
+
+2
+
+They are immutable
+
+They are mutable
+
+3
+
+They allow you to pass data from one component to another
+
+They hold information about the components
+
+4
+
+They can be passed down and accessed by a child component
+
+They cannot be accessed by a child component
+
+5
+
+Props are basically used to communicate between components
+
+State is used for rendering dynamic changes
+
+6
+
+Props make components reusable
+
+States can’t make components reusable
